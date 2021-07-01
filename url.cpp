@@ -1,1 +1,1 @@
-aHR0cDovLzE5Mi4xNjguMTAwLjE1Ni9jb2RlLmNwcA==
+https://raw.githubusercontent.com/JoshuaFogleman1024/Get1024/main/code.cpp
